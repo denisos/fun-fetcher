@@ -5157,6 +5157,11 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
+fwap@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/fwap/-/fwap-1.0.0.tgz#e0ba1012eb09f5688aeafa2904a62f497954df46"
+  integrity sha512-Ba+walJB4N1iDhphqIV92L7GaxBjgq8AcHd2QG8ZzE8cCIzeyBX89K6WMvgSZeeUfe9G0R3kkXU+9wzCZTHeSg==
+
 gensync@^1.0.0-beta.1:
   version "1.0.0-beta.2"
   resolved "https://registry.yarnpkg.com/gensync/-/gensync-1.0.0-beta.2.tgz#32a6ee76c3d7f52d46b2b1ae5d93fea8580a25e0"

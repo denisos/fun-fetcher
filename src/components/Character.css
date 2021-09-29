@@ -1,0 +1,17 @@
+
+.person-card {
+  flex: 0 1 24%;
+  min-width: 200px;
+  max-width: 200px;
+}
+
+.person-card .person-picture {
+  min-height: 100px;
+  min-width: 100px;
+  background-color: blue;
+}
+
+.person-card p {
+  font: 14px sans-serif;
+  font-weight: normal;
+}  
